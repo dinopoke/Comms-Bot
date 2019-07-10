@@ -1,5 +1,5 @@
 {
-    "name": "Comms Bot",
+    "name": "dinopoke-comm-bot",
     "description": "For Bryn",
     "version": "0.0.1",
     "main": "index.js",
