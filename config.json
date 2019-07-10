@@ -1,0 +1,20 @@
+{ 
+  "prefix" : "/",
+  "activity" : "a dangerous game",
+  "channel" : "general",
+  "invalidCommandMesssage" : "Invalid Command",
+  "invalidPlayerMesssage" : "Invalid Faction",
+  "invalidDiscordMessage": "Faction is valid but we cannot find the player in Discord",
+  "directMessageFlavourText" : "Private Message:",
+  "globalMessageFlavourText" : "Public Message:",
+  "players" : [
+
+    {"discordName": "dinopoke",
+    "factionName": "poonce"},
+
+    {"discordName": "playername2",
+        "factionName": "faction2"}    
+    
+  ]
+
+}
