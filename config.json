@@ -1,6 +1,6 @@
 { 
   "prefix" : "/",
-  "activity" : "a dangerous game",
+  "activity" : "Playing a Dangerous Game",
   "channel" : "general",
   "invalidCommandMesssage" : "Invalid Command",
   "invalidPlayerMesssage" : "Invalid Faction",
