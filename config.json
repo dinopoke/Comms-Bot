@@ -10,10 +10,10 @@
   "players" : [
 
     {"discordName": "dinopoke",
-    "factionName": "ponce"},
+    "codeName": "ponce"},
 
     {"discordName": "playername2",
-        "factionName": "faction2"}    
+        "codeName": "codename2"}    
     
   ]
 

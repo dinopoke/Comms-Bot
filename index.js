@@ -70,13 +70,12 @@ client.on('message', message => {
 
             if(command === "w"){
 
-                //let faction = players.find
 
                 var target;
 
                 for (var i = 0; i < config.players.length; i++){
 
-                    if (config.players[i].factionName == args[0]){
+                    if (config.players[i].codeName == args[0]){
                         // we found it
                        // obj[i].name is the matched result
                        target = config.players[i]
