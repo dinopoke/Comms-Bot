@@ -10,9 +10,9 @@ client.on('ready', () => {
     // docs refer to as the "ClientUser".
     client.user.setPresence({
         game: {
-            //name: 'Use f!help',
+            name: "",
             type: config.activity,
-            //url: "https://discordapp.com/"
+            url: ""
         }
     });
 
