@@ -10,7 +10,7 @@ client.on('ready', () => {
     // docs refer to as the "ClientUser".
     client.user.setPresence({
         game:
-            {name:"a dangerous gamm",
+            {name: config.activity,
               type:0
             }
         
